@@ -1,5 +1,5 @@
 # Site settings
-title: Gian M. Rothfuchs
+title: Gian Rothfuchs
 #twitter_username: rob_hinds
 name: Gian Marco Rothfuchs
 
@@ -36,27 +36,27 @@ roles:
    start: December 2018
    end: Ongoing
    employer: Swiss Rock Asset Management
-   description: Portfolio management system implementation.
+   description: Portfolio management system implementation
  - title: Quantitative Analyst
    start: June 2015
    end: November 2018
    employer: Credit Suisse AG
-   description: Quantitative model developer in IRRBB Modelling.
+   description: Quantitative model developer in IRRBB Modelling
  - title: Research Assistant
    start: June 2014
    end: June 2015
    employer: Swiss National Bank
-   description: Internship at International Trade and Capital Flows unit.
+   description: Internship at International Trade and Capital Flows unit
 
 #Education is required
 education:
  - level: M.A. in Economics
    date: 2014
-   subject: Econometrics, Economic History, and Finance
+   subject: "Econometrics, Economic History, and Finance"
    school: University of Zurich
  - level: B.A. in Economics
    date: 2012
-   subject: Econometrics, Economic History, and Finance
+   subject: "Econometrics, Economic History, and Finance"
    school: University of Zurich
 
 #This section is optional (as is the image link below)
@@ -66,7 +66,7 @@ coursera:
     - title: "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
       link: "https://www.coursera.org/account/accomplishments/records/7N79KBED569Autm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
       optionalimage: "https://www.coursera.org/account/accomplishments/verify/7N79KBED569A?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"
-      date: December 25, 2017
+      date: "December 25, 2017"
 #    - title: Algorithms Design a
 #      link: https://www.coursera.org/specializations/algorithms
 #      optionalimage: 
