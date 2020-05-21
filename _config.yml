@@ -16,6 +16,12 @@ primarylinks:
  - title: StackOverflow
    url: https://stackexchange.com/users/18643492/giro
 
+#List of interesting Github repo/projects to include - optional
+github:
+# - robhinds/robhinds.github.io
+# - robhinds/ScaLambda
+ - GianRothfuchs/rlSandbox
+
 #Any buzzword skills you want to include
 skills:
  - Python
@@ -25,7 +31,11 @@ skills:
  - HTTP
  - REST
  - SQL
+ - Finance
+ - Statistics
+ - Machine Learning
  - Deep Learning
+ - Reinforcement Learning
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
@@ -33,18 +43,18 @@ skills:
 #Work experience is required
 roles:
  - title: Technical Project Support
-   start: December 2018
+   start: Dec 2018
    end: Ongoing
    employer: Swiss Rock Asset Management
    description: Portfolio management system implementation
  - title: Quantitative Analyst
-   start: June 2015
-   end: November 2018
+   start: Jun 2015
+   end: Nov 2018
    employer: Credit Suisse AG
    description: Quantitative model developer in IRRBB Modelling
  - title: Research Assistant
-   start: June 2014
-   end: June 2015
+   start: Jun 2014
+   end: Jun 2015
    employer: Swiss National Bank
    description: Internship at International Trade and Capital Flows unit
 
@@ -63,14 +73,14 @@ education:
 coursera:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
-#   - title: "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
-#     link: "https://www.coursera.org/account/accomplishments/records/7N79KBED569Autm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
-#     optionalimage: "https://www.coursera.org/account/accomplishments/verify/7N79KBED569A?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"
-#      date: "December 25, 2017"
-    - title: Algorithms Design a
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: 
-      date: 
+   - title: "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+      link: "https://www.coursera.org/account/accomplishments/records/7N79KBED569Autm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+      optionalimage: "https://www.coursera.org/account/accomplishments/verify/7N79KBED569A?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"
+      date: "December 25, 2017"
+#   - title: Algorithms Design a
+#     link: https://www.coursera.org/specializations/algorithms
+#     optionalimage: 
+#     date: 
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
@@ -82,17 +92,13 @@ coursera:
 #      conference: API Conference, Berlin 2018
 
 
-#List of interesting Github repo/projects to include - optional
-github:
-# - robhinds/robhinds.github.io
-# - robhinds/ScaLambda
- - GianRothfuchs/rlSandbox
+
 
 
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackexchange.com/users/18643492/giro
-   flairimageurl: https://stackoverflow.com/users/flair/18643492.png
+   flairimageurl: https://www.gravatar.com/avatar/c8b6cca1f5aba57b7f1160459a135467?s=128&d=identicon&r=PG&f=1
 
 intro: |
   This Portfolio contains some of my data science projects.
