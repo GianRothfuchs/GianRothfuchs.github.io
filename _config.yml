@@ -73,9 +73,9 @@ education:
 coursera:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
-   - title: Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
+   - title: "Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization"
       link: https://www.coursera.org/account/accomplishments/specialization/M3J9ND42TJ45
-      optionalimage: http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png
+#      optionalimage: http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png
       date: "December 25, 2017"
 #   - title: Algorithms Design a
 #     link: https://www.coursera.org/specializations/algorithms
