@@ -71,14 +71,14 @@ education:
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   profileurl: https://www.coursera.org/user/c2c9d6db2b95a351b6fe8e7f25477f26
    courses:
     - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      link: https://www.coursera.org/specializations/deep-learning
+      optionalimage: https://d15cw65ipctsrr.cloudfront.net/57/4be3fd8d16487ab9cfa7bba909b236/GreyLogoName1000x1000.png
       date: September 16, 2013
     - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
+      link: https://www.coursera.org/specializations/deep-learning
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
       date: April 28, 2014
 
