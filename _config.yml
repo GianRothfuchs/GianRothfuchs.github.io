@@ -42,18 +42,18 @@ skills:
 #Work experience is required
 roles:
  - title: Technical Project Support
-   start: Dec 2018
+   start: 2018
    end: Ongoing
    employer: Swiss Rock Asset Management
    description: Portfolio management system implementation
  - title: Quantitative Analyst
-   start: Jun 2015
-   end: Nov 2018
+   start: 2015
+   end: 2018
    employer: Credit Suisse AG
    description: Quantitative model developer in IRRBB Modelling
  - title: Research Assistant
-   start: Jun 2014
-   end: Jun 2015
+   start: 2014
+   end: 2015
    employer: Swiss National Bank
    description: Internship at International Trade and Capital Flows unit
 
