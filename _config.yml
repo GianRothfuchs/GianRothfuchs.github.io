@@ -79,7 +79,7 @@ coursera:
       date: December 2017
     - title: Blockchain Specialization
       link: https://www.coursera.org/learn/blockchain-basics
-      optionalimage: https://s3.amazonaws.com/coursera-course-photos/a8/d79e8065b111e895dda313fb57c8e8/Course1_white.jpg
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/20/53f890590611e8ad3a4787a17be710/New-blockchain-logo.jpg?auto=format%2Ccompress&dpr=2&w=100&h=100&fit=fill&bg=FFF
       date: Ongoing
 
 #This section is optional - embeds slideshows from speakerdeck
