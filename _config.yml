@@ -1,6 +1,6 @@
 # Site settings
 title: Gian Rothfuchs
-#twitter_username: rob_hinds
+twitter_username: none
 name: Gian Marco Rothfuchs
 
 # Build settings
@@ -12,7 +12,7 @@ primarylinks:
  - title: GitHub
    url: https://github.com/GianRothfuchs
  - title: LinkedIn
-   url: www.linkedin.com/in/gianrothfuchs
+   url: "www.linkedin.com/in/gianrothfuchs"
  - title: StackOverflow
    url: https://stackexchange.com/users/18643492/giro
 
@@ -50,11 +50,11 @@ roles:
 
 #Education is required
 education:
- - level: M.A. in Economics
+ - level: "M.A. in Economics"
    date: 2014
    subject: "Econometrics, Economic History, and Finance"
    school: University of Zurich
- - level: B.A. in Economics
+ - level: "B.A. in Economics"
    date: 2012
    subject: "Econometrics, Economic History, and Finance"
    school: University of Zurich
@@ -63,14 +63,14 @@ education:
 coursera:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
-    - title: "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
-      link: "https://www.coursera.org/account/accomplishments/records/7N79KBED569Autm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
-      optionalimage: "https://www.coursera.org/account/accomplishments/verify/7N79KBED569A?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"
-      date: "December 25, 2017"
-#    - title: Algorithms Design a
-#      link: https://www.coursera.org/specializations/algorithms
-#      optionalimage: 
-#      date: 
+#   - title: "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+#     link: "https://www.coursera.org/account/accomplishments/records/7N79KBED569Autm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+#     optionalimage: "https://www.coursera.org/account/accomplishments/verify/7N79KBED569A?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"
+#      date: "December 25, 2017"
+    - title: Algorithms Design a
+      link: https://www.coursera.org/specializations/algorithms
+      optionalimage: 
+      date: 
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
@@ -83,7 +83,7 @@ coursera:
 
 
 #List of interesting Github repo/projects to include - optional
-#github:
+github:
 # - robhinds/robhinds.github.io
 # - robhinds/ScaLambda
  - GianRothfuchs/rlSandbox
