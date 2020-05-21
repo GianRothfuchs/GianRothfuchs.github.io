@@ -1,6 +1,5 @@
 # Site settings
 title: Gian Rothfuchs
-twitter_username: none
 name: Gian Marco Rothfuchs
 
 # Build settings
@@ -12,7 +11,7 @@ primarylinks:
  - title: GitHub
    url: https://github.com/GianRothfuchs
  - title: LinkedIn
-   url: "www.linkedin.com/in/gianrothfuchs"
+   url: https://www.linkedin.com/in/gianrothfuchs
  - title: StackOverflow
    url: https://stackexchange.com/users/18643492/giro
 
@@ -89,8 +88,14 @@ stackoverflow:
    flairimageurl: https://www.gravatar.com/avatar/c8b6cca1f5aba57b7f1160459a135467?s=128&d=identicon&r=PG&f=1
 
 intro: |
-  This Portfolio contains some of my data science projects.
+  I am a quantitative model developer with a strong focus on Finance. In my professional life there is a strong requirement for models
+  that are simple and tractable. Therefore I have a clear tendency to choose models from ''classical econometrics'' domain for professional purposes. Personally
+  I am fascinated by the advances that have been made by Deep Learning models. Follwing my interests I compiled a collection of Deep Learning models into this
+  portfolio. The long term goal of this portfolio is to build a sense of how Deep Learning models may be trasferred to applications in Financial research
+  as well as practical questions in Finance.
 
+ 
+#While most of the Deep Learning models are highly specific to a certain application, they also become increasingly popular in other fields.
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Jira. I have experience with an array of testing tools and technologies.<br/><br/>
+   <strong>Development Control</strong>: I have knowledge of application life-cycle management and have worked with SVN, Sourcetree, Git, and Jira.<br/><br/>
