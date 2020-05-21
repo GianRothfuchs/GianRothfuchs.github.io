@@ -73,7 +73,7 @@ education:
 coursera:
    profileurl: https://www.coursera.org/user/c2c9d6db2b95a351b6fe8e7f25477f26
    courses:
-    - title: Functional Programming Principles in Scala
+    - title: Deep Learning
       link: https://www.coursera.org/specializations/deep-learning
       optionalimage: http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png
       date: December 2017
@@ -81,18 +81,6 @@ coursera:
       link: https://www.coursera.org/learn/blockchain-basics
       optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/20/53f890590611e8ad3a4787a17be710/New-blockchain-logo.jpg?auto=format%2Ccompress&dpr=2&w=100&h=100&fit=fill&bg=FFF
       date: Ongoing
-
-#This section is optional - embeds slideshows from speakerdeck
-# to get the speakerdeck ID copy the embed code and look for the data-it attribute
-#speakerdeck:
-#   profileurl: https://speakerdeck.com/robhinds
-#   talks:
-#    - title: Product Management for Engineers
-#      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-#      conference: API Conference, Berlin 2018
-
-
-
 
 
 #Stackoverflow flair is optional
