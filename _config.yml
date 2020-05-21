@@ -64,8 +64,8 @@ coursera:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
     - title: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-#      link: https://www.coursera.org/account/accomplishments/records/7N79KBED569A?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
-#      optionalimage: https://www.coursera.org/account/accomplishments/verify/7N79KBED569A?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course
+      link: "https://www.coursera.org/account/accomplishments/records/7N79KBED569Autm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+      optionalimage: "https://www.coursera.org/account/accomplishments/verify/7N79KBED569A?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"
       date: December 25, 2017
 #    - title: Algorithms Design a
 #      link: https://www.coursera.org/specializations/algorithms
@@ -86,7 +86,7 @@ coursera:
 #github:
 # - robhinds/robhinds.github.io
 # - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
+ - GianRothfuchs/rlSandbox
 
 
 #Stackoverflow flair is optional
@@ -99,4 +99,4 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
+   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Jira. I have experience with an array of testing tools and technologies.<br/><br/>
