@@ -75,12 +75,12 @@ coursera:
    courses:
     - title: Functional Programming Principles in Scala
       link: https://www.coursera.org/specializations/deep-learning
-      optionalimage: https://d15cw65ipctsrr.cloudfront.net/57/4be3fd8d16487ab9cfa7bba909b236/GreyLogoName1000x1000.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/deep-learning
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+      optionalimage: http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png
+      date: December 2017
+    - title: Blockchain Specialization
+      link: https://www.coursera.org/learn/blockchain-basics
+      optionalimage: https://s3.amazonaws.com/coursera-course-photos/a8/d79e8065b111e895dda313fb57c8e8/Course1_white.jpg
+      date: Ongoing
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
