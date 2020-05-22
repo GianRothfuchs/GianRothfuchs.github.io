@@ -87,7 +87,7 @@ coursera:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackexchange.com/users/18643492/giro
-   flairimageurl: https://www.gravatar.com/avatar/c8b6cca1f5aba57b7f1160459a135467?s=128&d=identicon&r=PG&f=1
+   flairimageurl: https://i.stack.imgur.com/Vn4Ql.png?s=128&g=1
 
 intro: |
   I am a quantitative model developer with a strong focus on Finance. In my professional life there is a strong requirement for models
