@@ -15,6 +15,7 @@ primarylinks:
  - title: StackOverflow
    url: https://stackexchange.com/users/18643492/giro
 
+
 #List of interesting Github repo/projects to include - optional
 github:
 # - robhinds/robhinds.github.io
@@ -73,11 +74,12 @@ coursera:
    profileurl: https://www.coursera.org/user/c2c9d6db2b95a351b6fe8e7f25477f26
    courses:
     - title: Deep Learning
-      link: https://www.coursera.org/specializations/deep-learning
+      #link: https://www.coursera.org/specializations/deep-learning
+      link: https://www.coursera.org/account/accomplishments/specialization/M3J9ND42TJ45
       optionalimage: http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png
       date: December 2017
     - title: Blockchain Specialization
-      link: https://www.coursera.org/learn/blockchain-basics
+      link: https://www.coursera.org/account/accomplishments/records/T78E6CK2CSCG
       optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/20/53f890590611e8ad3a4787a17be710/New-blockchain-logo.jpg?auto=format%2Ccompress&dpr=2&w=100&h=100&fit=fill&bg=FFF
       date: Ongoing
 
