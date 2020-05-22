@@ -17,10 +17,10 @@ primarylinks:
 
 
 #List of interesting Github repo/projects to include - optional
-github:
+#github:
 # - robhinds/robhinds.github.io
 # - robhinds/ScaLambda
- - GianRothfuchs/rlSandbox
+# - GianRothfuchs/rlSandbox
 
 #Any buzzword skills you want to include
 skills:
@@ -80,7 +80,7 @@ coursera:
       date: December 2017
     - title: Blockchain Specialization
       link: https://www.coursera.org/account/accomplishments/records/T78E6CK2CSCG
-      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/20/53f890590611e8ad3a4787a17be710/New-blockchain-logo.jpg?auto=format%2Ccompress&dpr=2&w=100&h=100&fit=fill&bg=FFF
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/20/53f890590611e8ad3a4787a17be710/New-blockchain-logo.jpg?auto=format%2Ccompress&dpr=2&w=85&h=85&fit=fill&bg=FFF
       date: Ongoing
 
 
