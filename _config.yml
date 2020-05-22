@@ -18,9 +18,8 @@ primarylinks:
 
 #List of interesting Github repo/projects to include - optional
 github:
-# - robhinds/robhinds.github.io
-# - robhinds/ScaLambda
  - gianrothfuchs/rlSandbox
+ - gianrothfuchs/RL_QLearning_ttt
 
 #Any buzzword skills you want to include
 skills:
