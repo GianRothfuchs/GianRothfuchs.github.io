@@ -17,10 +17,10 @@ primarylinks:
 
 
 #List of interesting Github repo/projects to include - optional
-#github:
+github:
 # - robhinds/robhinds.github.io
 # - robhinds/ScaLambda
-# - GianRothfuchs/rlSandbox
+ - GianRothfuchs/rlSandbox
 
 #Any buzzword skills you want to include
 skills:
