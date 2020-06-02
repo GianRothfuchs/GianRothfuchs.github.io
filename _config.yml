@@ -18,6 +18,7 @@ primarylinks:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - gianrothfuchs/appliedRLBook
  - gianrothfuchs/rlSandbox
  - gianrothfuchs/RL_QLearning_ttt
 
