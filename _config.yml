@@ -95,9 +95,9 @@ intro: |
   that are simple and tractable. Therefore I have a clear tendency to choose models from ''classical econometrics'' domain for professional purposes. Personally
   I am fascinated by the advances that have been made by Deep Learning models. Following my interests I compiled a collection of Deep Learning models into this
   portfolio. The long term goal of this portfolio is to build a sense of how Deep Learning models may be transferred to applications in Financial research
-  as well as practical questions in Finance.
+  as well as practical questions in Finance.<br/><br/>
   Reinforcement Learning is one of my favourite applications of Deep Learning. A famous text book example ist the cart pole problem, where the learner observes the evironment consisting of a cart that balances as pole. The learner applies force ranging form -1 to 1 in order to prvent the pole from falling over. The full implementation can be found in my projects below.<br/>
-  <img src="videos/chapter2/cartpole/vid.gif" alt="Learner balances pole for 200 steps (=Max)" />
+  <img src="https://github.com/GianRothfuchs/appliedRLBook/blob/master/videos/chapter2/cartpole/vid.gif" alt="Learner balances pole for 200 steps (=Max)" />
 
 
  
