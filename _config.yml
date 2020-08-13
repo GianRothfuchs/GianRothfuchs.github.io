@@ -80,9 +80,9 @@ coursera:
       optionalimage: http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png
       date: December 2017
     - title: Blockchain Specialization
-      link: https://www.coursera.org/account/accomplishments/records/T78E6CK2CSCG
+      link: https://www.coursera.org/account/accomplishments/specialization/7STYEV4C7USB
       optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/20/53f890590611e8ad3a4787a17be710/New-blockchain-logo.jpg?auto=format%2Ccompress&dpr=2&w=85&h=85&fit=fill&bg=FFF
-      date: Ongoing
+      date: August 2020
 
 
 #Stackoverflow flair is optional
@@ -96,7 +96,7 @@ intro: |
   I am fascinated by the advances that have been made by Deep Learning models. Following my interests I compiled a collection of Deep Learning models into this
   portfolio. The long term goal of this portfolio is to build a sense of how Deep Learning models may be transferred to applications in Financial research
   as well as practical questions in Finance.<br/><br/>
-  Reinforcement Learning is one of my favourite applications of Deep Learning. A famous text book example ist the cart pole problem, where the learner observes the evironment consisting of a cart that balances as pole. The learner applies force ranging form -1 to 1 in order to prvent the pole from falling over for 200 consecuitve periods. The full implementation can be found in my projects below.<br/>
+  Reinforcement Learning is one of my favourite applications of Deep Learning. A famous text book example ist the cart pole problem, where the learner observes the evironment consisting of a cart that balances as pole. The learner applies force ranging form -1 to 1 in order to prvent the pole from falling over for 200 consecuitve periods. The full implementation can be found in my projects below.<br/><br/>
   <img src="https://raw.githubusercontent.com/GianRothfuchs/appliedRLBook/master/videos/chapter2/cartpole/vid.gif" alt="Learner balances pole for 200 steps (=Max)" / width="300" height="200">
 
 
