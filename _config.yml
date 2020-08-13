@@ -77,11 +77,11 @@ coursera:
     - title: Deep Learning
       #link: https://www.coursera.org/specializations/deep-learning
       link: https://www.coursera.org/account/accomplishments/specialization/M3J9ND42TJ45
-      optionalimage: http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png
+      optionalimage: https://github.com/GianRothfuchs/GianRothfuchs.github.io/raw/master/img/CourseraDL.png
       date: December 2017
     - title: Blockchain Specialization
       link: https://www.coursera.org/account/accomplishments/specialization/7STYEV4C7USB
-      optionalimage: <img src="https://github.com/GianRothfuchs/GianRothfuchs.github.io/raw/master/img/CourseraBC.png" width="250" height="200">
+      optionalimage: https://github.com/GianRothfuchs/GianRothfuchs.github.io/raw/master/img/CourseraBC.png
       date: August 2020
 
 
