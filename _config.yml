@@ -99,7 +99,7 @@ intro: |
   I am a quantitative model developer with a strong focus on Finance. Personlly I am fascinated by the advances that have been made in the recent years by Deep Learning models. Guided by my personal interests I compiled a collection of Deep Learning models into this
   portfolio. The long term goal of this portfolio is to build a sense of how Deep Learning models may be transferred to applications in Financial research
   as well as practical questions in Finance.<br/><br/>
-  Reinforcement Learning is one of my favourite applications of Deep Learning. A famous text book example ist the cart pole problem, where the learner observes the evironment consisting of a cart that balances as pole. The learner applies force ranging form -1 to 1 in order to prvent the pole from falling over for 200 consecuitve periods. The full implementation can be found in my projects below.<br/><br/>
+  Reinforcement Learning is one of my favourite applications of Deep Learning. A famous text book example ist the cart pole problem, where the learner (i.e. the model) observes the evironment consisting of a cart that balances as pole. The learner applies force ranging form -1 to 1 in order to prvent the pole from falling over for 200 consecuitve periods. The full implementation can be found in my projects below.<br/><br/>
   <img src="https://raw.githubusercontent.com/GianRothfuchs/appliedRLBook/master/videos/chapter2/cartpole/vid.gif" alt="Learner balances pole for 200 steps (=Max)" / width="300" height="200">
 
 
