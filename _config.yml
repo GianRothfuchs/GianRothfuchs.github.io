@@ -33,6 +33,7 @@ skills:
  - REST
  - SQL
  - Finance
+ - ESG
  - Statistics
  - Machine Learning
  - Deep Learning
@@ -43,11 +44,11 @@ skills:
 
 #Work experience is required
 roles:
- - title: Technical Project Support
+ - title: Portfolio Manager & PMS-Engineer
    start: 2018
    end: Ongoing
    employer: Swiss Rock Asset Management
-   description: Portfolio management system implementation
+   description: Portfolio Manager and Portfolio Management System Engineer
  - title: Quantitative Analyst
    start: 2015
    end: 2018
@@ -83,6 +84,10 @@ coursera:
       link: https://www.coursera.org/account/accomplishments/specialization/7STYEV4C7USB
       optionalimage: https://github.com/GianRothfuchs/GianRothfuchs.github.io/raw/master/img/CourseraBC.png
       date: August 2020
+    - title: Data Streaming Nanodegree
+      link: https://confirm.udacity.com/2PFPJKKX
+      optionalimage: https://github.com/GianRothfuchs/GianRothfuchs.github.io/raw/master/img/UdacityDSN.png
+      date: March 2021
 
 
 #Stackoverflow flair is optional
@@ -91,9 +96,7 @@ stackoverflow:
    flairimageurl: https://i.stack.imgur.com/Vn4Ql.png?s=128&g=1
 
 intro: |
-  I am a quantitative model developer with a strong focus on Finance. In my professional life there is a strong requirement for models
-  that are simple and tractable. Therefore I have a clear tendency to choose models from ''classical econometrics'' domain for professional purposes. Personally
-  I am fascinated by the advances that have been made by Deep Learning models. Following my interests I compiled a collection of Deep Learning models into this
+  I am a quantitative model developer with a strong focus on Finance. Personlly I am fascinated by the advances that have been made in the recent years by Deep Learning models. Guided by my personal interests I compiled a collection of Deep Learning models into this
   portfolio. The long term goal of this portfolio is to build a sense of how Deep Learning models may be transferred to applications in Financial research
   as well as practical questions in Finance.<br/><br/>
   Reinforcement Learning is one of my favourite applications of Deep Learning. A famous text book example ist the cart pole problem, where the learner observes the evironment consisting of a cart that balances as pole. The learner applies force ranging form -1 to 1 in order to prvent the pole from falling over for 200 consecuitve periods. The full implementation can be found in my projects below.<br/><br/>
