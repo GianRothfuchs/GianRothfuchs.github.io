@@ -106,5 +106,5 @@ intro: |
  
 #While most of the Deep Learning models are highly specific to a certain application, they also become increasingly popular in other fields.
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>Development Control</strong>: I have knowledge of application life-cycle management and have worked with SVN, Sourcetree, Git, and Jira.<br/><br/>
+#additionalinfo: |
+#   <strong>Development Control</strong>: I have knowledge of application life-cycle management and have worked with SVN, Sourcetree, Git, and Jira.<br/><br/>
