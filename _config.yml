@@ -93,7 +93,7 @@ coursera:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackexchange.com/users/18643492/giro
-   flairimageurl: https://i.sstatic.net/Vn4Ql.png?s=128&g=1
+   flairimageurl: https://i.sstatic.net/Vn4Ql.png?s=128
 
 intro: |
   I am a quantitative model developer with a strong focus on Finance. Personlly I am fascinated by the advances that have been made in the recent years by Deep Learning models. Guided by my personal interests I compiled a collection of Deep Learning models into this
